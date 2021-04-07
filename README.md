@@ -1,5 +1,5 @@
-# Blog-website
-A php blog-website with mysql and cms
+# Blog CRUD Application
+A PHP blog type website. With a complete Authentication & CRUD.
 
 #Authentication system using PHP session. 
 #MySQL Database for CMS and CRUD
